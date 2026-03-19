@@ -6,16 +6,6 @@ Sou estudante do 5º semestre de Análise e Desenvolvimento de Sistemas no IFSP,
 
 ---
 
-### 🚀 Sobre mim
-
-- 🔭 Atualmente focado em aprofundar meus conhecimentos em **Modern Data Stack (dbt, Airflow) e Cloud (GCP/AWS)**.
-- 💼 Experiência prática anterior como Analista de Dados Jr. (Aloe Nutrition), atuando com qualidade de dados, limpeza e automações de ETL.
-- 🎓 Certificado em **Fundamentos de Engenharia de Dados** pela Data Science Academy (97% de aproveitamento).
-- 🗣️ **Inglês Avançado (C1)**: Autonomia total para consumir documentações globais e atuar em ambientes internacionais.
-- 🧩 Curiosidade: Sou fã de Sudoku, o que mantém meu raciocínio lógico afiado para modelagem de dados e consultas SQL complexas.
-
----
-
 ### 💻 Stack Tecnológico
 
 **Linguagens & Bancos de Dados:**
