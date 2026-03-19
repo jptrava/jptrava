@@ -34,4 +34,8 @@ Sou estudante do 5º semestre de Análise e Desenvolvimento de Sistemas no IFSP,
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deandradesantosjoaopedro@gmail.com)
 
 <br/>
+<div align="center">
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jptrava&custom_title=Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=C9D1D9&area=true&hide_border=true)
+
+</div>
