@@ -1,6 +1,6 @@
 # Olá! Eu sou o João Pedro 👋
 
-### Estudante de ADS | Foco em Engenharia de Dados e Automação
+### Estudante de ADS | Foco em Engenharia de Dados 
 
 Sou estudante do 5º semestre de Análise e Desenvolvimento de Sistemas no IFSP, apaixonado por transformar dados brutos em informações confiáveis para tomada de decisão. Tenho experiência prática com qualidade de dados e busco constantemente otimizar processos através de pipelines e arquiteturas modernas de dados.
 
@@ -25,17 +25,6 @@ Sou estudante do 5º semestre de Análise e Desenvolvimento de Sistemas no IFSP,
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
----
-
-### 📂 Projetos em Destaque
-
-* 🏗️ **[E-commerce Data Pipeline (Olist) - End-to-End ELT](https://github.com/jptrava/projeto_ETL_Kaggle)**
-    * Arquitetura completa de dados utilizando **Python** para ingestão, **Docker + PostgreSQL** para o Data Warehouse, **dbt** para modelagem dimensional (Star Schema) e **Streamlit** para visualização de KPIs de negócio.
-* 💳 **[Pipeline de Dados para Detecção de Fraudes](Link_para_o_repositorio_aqui)**
-    * Fluxo automatizado (ETL) utilizando **Python, Docker e Apache Airflow** para preparar uma base de dados visando a aplicação de um algoritmo de Random Forest.
-* 🤟 **[HandTracker: Tradutor de LIBRAS](Link_para_o_repositorio_aqui)**
-    * Software de Visão Computacional criado com Python, OpenCV e TensorFlow (MobileNetV2) para reconhecimento e tradução de gestos em tempo real.
 
 ---
 
