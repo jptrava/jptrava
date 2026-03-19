@@ -34,6 +34,4 @@ Sou estudante do 5º semestre de Análise e Desenvolvimento de Sistemas no IFSP,
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deandradesantosjoaopedro@gmail.com)
 
 <br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jptrava&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub do João" />
-</div>
+
